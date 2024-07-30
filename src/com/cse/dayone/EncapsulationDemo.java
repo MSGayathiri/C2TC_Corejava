@@ -5,7 +5,7 @@ import com.cse.daythree.OopsConceptDemo;
 public class EncapsulationDemo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		OopsConceptDemo obj = new OopsConceptDemo();
 				obj.setSerialNum(101);
 				obj.setName("Gayu");
@@ -21,3 +21,7 @@ public class EncapsulationDemo {
 	
 
 }
+
+
+
+
